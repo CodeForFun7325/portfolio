@@ -10,6 +10,8 @@ export default function IntroBoard() {
         <p className="about-me">
           As a software developer I enjoy turning complex problems into simple, beautiful, and intuitive designs. When I'm not coding, you can find me exploring new technologies or enjoying a good cup of coffee.
         </p>
+
+        <p>Test</p>
     </div>
   );
 }
